@@ -22,10 +22,10 @@ ceres库
 
 提前下载好指定版本的ceres
 
-ceres-1.14.0百度网盘下载地址；提取码：1234
-ceres-2.1.0官方下载地址：
+ceres-1.14.0下载地址：https://github.com/mazhijian1111/Ceres.git
+ceres-2.1.0下载地址：https://github.com/mazhijian1111/Ceres.git
 
-ceres-2.2.0官方下载地址：
+ceres-2.2.0下载地址：https://github.com/mazhijian1111/Ceres.git
 
 解压、编译、安装
 
